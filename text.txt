@@ -1,0 +1,1 @@
+curl -XGET "https://superuser.com/questions/1308241/checking-and-upgrade-curl-version-on-windows-server-2008r2"
